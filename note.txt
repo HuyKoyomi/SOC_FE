@@ -1,0 +1,32 @@
+//======================================================
+PROJECT NAME: "Hệ thống quản lý thuế"
+create date: 05/03/2023
+//======================================================
+Các câu lệnh
+    + Khởi tạo project: 'npx create-react-app sqa_fe_code_2023'
+
+// Một số thư viện cần dùng
+    + antd  // Khung giao diện
+    + axios // thao tác API
+    + react-router-dom - version (5.2.0) // điều hướng
+    + dotenv // sử dụng biến môi trường
+    + loglevel
+    + loglevel-plugin-prefix
+    + moment
+    + classnames
+    + lodash
+    + @ant-design/icons
+
+
+// Một số thư viện chưa biết
+
+//You can now view sqa_fe_code_2023 in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.103:3000
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+
+webpack compiled successfully
+    
